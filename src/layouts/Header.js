@@ -11,7 +11,7 @@ import {
   Dropdown,
   Button,
 } from "reactstrap";
-import LogoWhite from "../assets/images/logos/kaikong24-logo.png";
+import LogoWhite from "../assets/images/logos/logo.png";
 import user1 from "../assets/images/users/user1.jpg";
 import { connect } from "react-redux";
 import { logout } from "../actions/loginAction";
